@@ -3,4 +3,4 @@
 
 ## Contents
 - [Rules](/rules.md)
-- [Legal](/legal.md)
+
